@@ -1,0 +1,9 @@
+#
+# defaults file for /etc/ansible/roles/aws-cli
+---
+aws_cli_system_user: root
+aws_cli_profile: default
+aws_cli_access_key: "AKIAT7PCZAWMQXFTZHRF"
+aws_cli_secret_key: "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"
+aws_cli_region: us-east-2
+aws_cli_format: text
